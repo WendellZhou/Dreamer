@@ -14,6 +14,12 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+    <!-- MariaDB 数据库驱动程序 -->
+    <dependency>
+	<groupId>org.mariadb.jdbc</groupId>
+	<artifactId>mariadb-java-client</artifactId>
+	<version>1.4.4</version>
+    </dependency>
   </dependencies>
   <build>
     <finalName>dreamer</finalName>
