@@ -1,8 +1,5 @@
 package com.dream521.dreamer.Models;
 
 public class MyDevelopJava {
-    //这个是新建的java文件
-    //我是主干的java文件
-	//我是主干第二次提交文件
-	// 4月3日第1次提交中分支
+    // 4月3日修改了最新的brunch文件内容
 }
